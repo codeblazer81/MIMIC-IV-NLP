@@ -1,0 +1,9 @@
+bigquery:
+  project_id: "gen-lang-client-0963789984"
+  dataset: "mimiciv_hosp"
+  region: "US"
+
+visualization:
+  default_width: 1200
+  default_height: 800
+  theme: "plotly_white"
