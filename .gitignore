@@ -1,0 +1,33 @@
+# API Keys and Secrets
+.gemini_key
+.openai_key
+*.key
+api_keys.txt
+secrets.txt
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Personal notes
+personal_notes.md
+private_notes.txt
